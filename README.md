@@ -1,3 +1,4 @@
+# **THIS PLUGIN HAS BEEN ARCHIVED**
 # O5 Overidden
 A simple Exiled Plugin that allows the O5 Keycard to override Specific DoorLockTypes
 
